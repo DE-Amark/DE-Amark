@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">A passionate "Data Engineer"</h3>
-
+### Thanks for visiting my profile.
 - 💬 Ask me about __Data engineering, ETL, Snowflake, Azure services__
 
 - 📫 How to reach me **kamar.k0420@gmail.com**
