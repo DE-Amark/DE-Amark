@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">A passionate "Data Engineer"</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: kamar.k0420@gmail.com</h3>
 <p align="left">
 </p>
 
