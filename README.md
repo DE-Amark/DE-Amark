@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">A passionate "Data Engineer"</h3>
 
-<h3 align="left">Connect with me: kamar.k0420@gmail.com</h3>
+- 💬 Ask me about __Data engineering, ETL, Snowflake, Azure services__
+
+- 📫 How to reach me **kamar.k0420@gmail.com**
 <p align="left">
 </p>
 
