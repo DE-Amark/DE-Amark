@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
-<h2 align="center">A passionate "Data Engineer"</h2>
+<h2 align="center">A passionate "/Data Analyst/Data Engineer"</h2>
 <h2>Thank you for visting my profile.</h2>
 
 - 💬 Ask me about __Data Analyst/Data engineer, ETL, Snowflake, Azure services__ 
-- Currently working as a Data engineer @ AT&T, USA
+- Currently working @ AT&T, USA
+- Proficient in __SQL,Python,pandas,NumPy__
 - Proficient at Azure Services (__ADF, Databricks, Azure data lake Gen2, blob storage, Azure Synapse, Power BI__)
-- Currently learing modern data stack (__dbt, snowflake, kafka__)
+- Currently learing modern data stack (__databricks, snowflake__)
 - Certified __"Snowflake SnowPro Core practitioner"__.
 - Certified __"Databricks Lakehouse Fundamentals"__.
 
